@@ -2,8 +2,8 @@
 
 **Welcome to our part in SAAS-System!**
 
-We are a team that is part of a SAAS-System The system was built by several teams, each team has a part for which it is 
-responsible for the system. We are responsible for the logic of the system.
+Part of a SAAS-System The system was built by several teams, each team has a part for which it is 
+responsible for the system. I am responsible for the logic of the system.
 You can create and run experimentAB and Feature Flag tests  according to attributes you choose and the amount of traffic
 that will participate in the experiment,decide on the variants for the user,get access to the goals and to the call witch
 mad by each account and experiments.
@@ -140,14 +140,5 @@ will appear for each.
 This means that every customer has a lot of experiments
 And all the experiments together can be together for all the users who see them.
 
-> **Group members 😇**
-
-* Suf Karmon
-* Pe'er Fichman
-* Shir Amar
-* Mohamad Aboria
-* Adva Apelboim
-* Ilai Azulay
-
-Wish you happy Experiments: DCS Growth Team
+Wish you happy Experiments
 
