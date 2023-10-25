@@ -1,0 +1,9 @@
+node_modules
+error.log
+http.log
+.env
+.idea
+testRouter
+newrelic_agent.log
+.nyc_output
+SDK
