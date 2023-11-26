@@ -13,7 +13,7 @@ The purpose of this project is to identify any changes to the web page to maximi
 The client gets SDK to implement our code in their system and make calls to our API routes.
 
  > **Before you start**
-1. [x] Download the code from Git-Hub https://github.com/sufka861/AB-test.git
+1. [x] Download the code from Git-Hub https://github.com/ilaiazulay/AB-test.git
 2. [x] Cd to the working directory and start the server using the following command in the terminal - $node app.js
 3. [x] Make sure to install all the dependencies  as described in the package.json [npm install].
 4. [x] Make sure you have our .env file containing the sensitive info of our system account.
