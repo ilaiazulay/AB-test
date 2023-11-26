@@ -1,6 +1,6 @@
 # Growth-Team 🙂
 
-**Welcome to our part in SAAS-System!**
+**Welcome to my part in SAAS-System!**
 
 Part of a SAAS-System The system was built by several teams, each team has a part for which it is 
 responsible for the system. I am responsible for the logic of the system.
