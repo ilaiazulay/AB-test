@@ -2,7 +2,7 @@
 
 **Welcome to my part in SAAS-System!**
 
-Part of a SAAS-System The system was built by several teams, each team has a part for which it is 
+Part of a SAAS-System The system was built by several teams, each one has a part for which it is 
 responsible for the system. I am responsible for the logic of the system.
 You can create and run experimentAB and Feature Flag tests  according to attributes you choose and the amount of traffic
 that will participate in the experiment,decide on the variants for the user,get access to the goals and to the call witch
@@ -48,9 +48,9 @@ you can find all the tests under the folder "test".
 
 > **How to Use**
 
-As we mentioned, we are responsible for the logic in the system, the UI development of the system is done by the Core team, we are responsible for the following 
+As I mentioned, I am responsible for the logic in the system, the UI development of the system is done by the Core team, I am responsible for the following 
 features that can be tested by using the UI.
-Below are the features in the system for which we were responsible and an explanation of their use
+Below are the features in the system for which I am responsible and an explanation of their use
 
 `Create AB Test Experiment:`
 1. Open Homepage.
